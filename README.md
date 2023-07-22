@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sadik Hajar </h1>
-<h3 align="center">A passionate Software Engineer from Marocco</h3>
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
