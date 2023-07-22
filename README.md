@@ -1,3 +1,4 @@
+![logo](https://github.com/SadikHajar/SadikHajar/blob/main/AI-image.jpg)
 <h1 align="center">Hi 👋, I'm Sadik Hajar </h1>
 <h3 align="center">A passionate Software Engineer from Marocco</h3>
 
