@@ -1,4 +1,9 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header
+"/>
+</a>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Software+engineering+student;Full+Stack+Developer;)
 <h1 align="center">Hi 👋, I'm Sadik Hajar </h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
