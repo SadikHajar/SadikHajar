@@ -13,7 +13,7 @@
 
 <img align="right" alt="coding" width="400" src="hajarAH.png">
 
-<p align="left"> <img src="hajarAH.png" alt="ashutosh-pmishra" /> </p>
+
 
 - ⚡ Fun fact **I am funny😅**
 - 🌱 I’m currently learning **PHP, HTML,CSS,Js and Python**
