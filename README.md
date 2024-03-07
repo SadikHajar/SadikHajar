@@ -3,7 +3,8 @@
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
 <a href="#">
-  <img width=100% src="hajarAH.png"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header
+"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Software+engineering+student;Full+Stack+Developer;from+Morocco)
@@ -12,7 +13,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="hajarAH.png" alt="ashutosh-pmishra" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 - 🌱 I’m currently learning **PHP, HTML,CSS,Js and Python**
