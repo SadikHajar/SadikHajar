@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="coding" width="400" src="hajarAH.png">
 
 <p align="left"> <img src="hajarAH.png" alt="ashutosh-pmishra" /> </p>
 
