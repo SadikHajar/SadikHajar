@@ -7,7 +7,7 @@
 "/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Software+engineering+student;Full+Stack+Developer;from+Morocco)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Software+engineering+student;Full+Stack+Developer;from+Morocco)
 
 
 
